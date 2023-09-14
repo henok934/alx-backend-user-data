@@ -1,0 +1,1 @@
+A user authentication service is a software component that provides authentication and authorization functionality for user accounts in a system or application. It verifies the identity of users and ensures that they have the necessary permissions.
